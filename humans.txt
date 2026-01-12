@@ -10,9 +10,9 @@
 
 # THANKS
 
-  Bibhash Roy
+  Diego De Sales
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, AngularJS
